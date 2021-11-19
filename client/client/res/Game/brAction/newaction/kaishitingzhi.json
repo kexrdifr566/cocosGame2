@@ -1,0 +1,176 @@
+{
+"skeleton": { "hash": "asjCpw0HOCc7MJXgnEdApa1jlAY", "spine": "3.6.53", "width": 437, "height": 437, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bg", "parent": "root" },
+	{ "name": "ksyx", "parent": "root", "x": 2.5, "y": -6.33 }
+],
+"slots": [
+	{ "name": "guang", "bone": "root", "color": "ffffff00", "attachment": "guang" },
+	{ "name": "bg", "bone": "bg" },
+	{ "name": "ksyx", "bone": "ksyx" }
+],
+"skins": {
+	"default": {
+		"bg": {
+			"bg": { "width": 837, "height": 159 },
+			"bg2": { "width": 853, "height": 162 }
+		},
+		"guang": {
+			"guang": { "x": -24.27, "y": -6.5, "width": 437, "height": 437 }
+		},
+		"ksyx": {
+			"ksyx": { "x": -8.27, "y": 3.33, "width": 276, "height": 62 },
+			"tzxz": { "width": 271, "height": 64 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"bg": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "bg" }
+				]
+			},
+			"guang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"ksyx": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1.3333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "ksyx" }
+				]
+			}
+		},
+		"bones": {
+			"ksyx": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -804.84,
+						"y": -24.61,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 8.79,
+						"y": -24.61,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 0, "y": -24.61, "curve": "stepped" },
+					{
+						"time": 1.3333,
+						"x": 0,
+						"y": -24.61,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 775.04, "y": -24.61 }
+				]
+			}
+		}
+	},
+	"animation2": {
+		"slots": {
+			"bg": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1.3333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "bg2" }
+				]
+			},
+			"guang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"ksyx": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1.3333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "tzxz" }
+				]
+			}
+		},
+		"bones": {
+			"ksyx": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -804.84,
+						"y": -24.61,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 8.79,
+						"y": -24.61,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 0, "y": -24.61, "curve": "stepped" },
+					{
+						"time": 1.3333,
+						"x": 0,
+						"y": -24.61,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 775.04, "y": -24.61 }
+				]
+			}
+		}
+	}
+}
+}

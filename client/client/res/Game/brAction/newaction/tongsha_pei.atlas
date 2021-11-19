@@ -1,0 +1,132 @@
+
+tongsha_pei.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diguang08
+  rotate: false
+  xy: 422, 313
+  size: 244, 197
+  orig: 244, 197
+  offset: 0, 0
+  index: -1
+hua03
+  rotate: false
+  xy: 392, 160
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+hua04
+  rotate: false
+  xy: 392, 121
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hua06
+  rotate: false
+  xy: 605, 239
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+piaosheng
+  rotate: false
+  xy: 668, 237
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+piaosheng2
+  rotate: false
+  xy: 777, 270
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+shangzi01a
+  rotate: false
+  xy: 2, 195
+  size: 311, 187
+  orig: 311, 187
+  offset: 0, 0
+  index: -1
+shangzi02a
+  rotate: false
+  xy: 2, 12
+  size: 311, 181
+  orig: 311, 181
+  offset: 0, 0
+  index: -1
+shu04a
+  rotate: false
+  xy: 315, 221
+  size: 105, 161
+  orig: 105, 161
+  offset: 0, 0
+  index: -1
+shu05a
+  rotate: false
+  xy: 668, 351
+  size: 105, 159
+  orig: 105, 159
+  offset: 0, 0
+  index: -1
+shu06a
+  rotate: true
+  xy: 668, 276
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+shu07a
+  rotate: true
+  xy: 777, 309
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+zhuzi01
+  rotate: true
+  xy: 315, 2
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+ziti
+  rotate: false
+  xy: 2, 384
+  size: 418, 126
+  orig: 418, 126
+  offset: 0, 0
+  index: -1
+ziti03
+  rotate: false
+  xy: 775, 384
+  size: 130, 126
+  orig: 130, 126
+  offset: 0, 0
+  index: -1
+ziti04
+  rotate: false
+  xy: 907, 394
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+ziti_diguang
+  rotate: true
+  xy: 315, 38
+  size: 181, 75
+  orig: 181, 75
+  offset: 0, 0
+  index: -1
+ziti_diguang2
+  rotate: false
+  xy: 422, 236
+  size: 181, 75
+  orig: 181, 75
+  offset: 0, 0
+  index: -1

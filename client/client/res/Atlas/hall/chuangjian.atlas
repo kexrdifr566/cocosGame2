@@ -1,0 +1,48 @@
+
+chuangjian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj_deng
+  rotate: false
+  xy: 190, 204
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+cj_denglong
+  rotate: false
+  xy: 0, 141
+  size: 188, 236
+  orig: 188, 236
+  offset: 0, 0
+  index: -1
+cj_di
+  rotate: false
+  xy: 0, 0
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+cj_guang
+  rotate: false
+  xy: 0, 36
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+cj_tiao
+  rotate: true
+  xy: 130, 79
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+cj_wenzi
+  rotate: false
+  xy: 190, 232
+  size: 59, 145
+  orig: 59, 145
+  offset: 0, 0
+  index: -1

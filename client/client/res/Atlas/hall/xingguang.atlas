@@ -1,0 +1,13 @@
+
+xingguang.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dl_guang
+  rotate: false
+  xy: 0, 0
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1

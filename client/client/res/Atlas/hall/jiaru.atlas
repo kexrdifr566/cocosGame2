@@ -1,0 +1,27 @@
+
+jiaru.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jr_di
+  rotate: false
+  xy: 0, 61
+  size: 138, 303
+  orig: 138, 303
+  offset: 0, 0
+  index: -1
+jr_wenzi
+  rotate: false
+  xy: 140, 132
+  size: 59, 232
+  orig: 59, 232
+  offset: 0, 0
+  index: -1
+jr_yingzi
+  rotate: false
+  xy: 0, 0
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1

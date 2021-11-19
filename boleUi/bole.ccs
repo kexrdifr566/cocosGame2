@@ -1,0 +1,1250 @@
+<Solution>
+  <PropertyGroup Name="bole" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name=".Hall_PList.Dir">
+          <Image Name="baoshi_hall.png" />
+          <Image Name="creter_hall.png" />
+          <Image Name="fenxiang_hall.png" />
+          <Image Name="fenxiangicon_hall.png" />
+          <Image Name="gonggao_hall.png" />
+          <Image Name="hall_dibu_hall.png" />
+          <Image Name="hall_kuang_hall.png" />
+          <Image Name="head.png" />
+          <Image Name="icon_hall.png" />
+          <Image Name="id.png" />
+          <Image Name="join_hall.png" />
+          <Image Name="kefu_hall.png" />
+          <Image Name="kefuicon_hall.png" />
+          <Image Name="logo.png" />
+          <Image Name="npc.png" />
+          <Image Name="redTips.png" />
+          <Image Name="set_heall.png" />
+          <Image Name="setcon_hall.png" />
+          <Image Name="tongzhi_ClubHall.png" />
+          <Image Name="wanfa_hall.png" />
+          <Image Name="wanfaicon_hall.png" />
+          <Image Name="wode_hall.png" />
+          <Image Name="xinxi_hall.png" />
+          <Image Name="xinxiicon_hall.png" />
+          <Image Name="zengjia_hall.png" />
+          <Image Name="zuoshang_hall.png" />
+        </Folder>
+        <Folder Name=".Login_PList.Dir">
+          <Image Name="bangding.png" />
+          <Image Name="bing_fs.png" />
+          <Image Name="btn_bao.png" />
+          <Image Name="btn_denglu.png" />
+          <Image Name="btn_shouji.png" />
+          <Image Name="btn_sure.png" />
+          <Image Name="btn_weixin.png" />
+          <Image Name="dikuang.png" />
+          <Image Name="logo.png" />
+          <Image Name="phonedelu.png" />
+          <Image Name="res_but.png" />
+          <Image Name="send.png" />
+          <Image Name="send_1.png" />
+          <Image Name="shoujiyanzheng.png" />
+          <Image Name="shoujizhuce.png" />
+          <Image Name="shurukuang.png" />
+          <Image Name="tongjishuzi.png" />
+          <Image Name="xiugai.png" />
+          <Image Name="xuanzhe.png" />
+          <Image Name="xuanzhe_ok.png" />
+        </Folder>
+        <Folder Name="Club">
+          <Folder Name="card">
+            <Image Name="card_1_12.png" />
+            <Image Name="img_banker.png" />
+            <Image Name="qx1.png" />
+            <Image Name="qx2.png" />
+            <Image Name="qx3.png" />
+            <Image Name="qx4.png" />
+            <Image Name="qx5.png" />
+          </Folder>
+          <PlistImageFolder Image="Clubhall.png" PListFile="Clubhall.plist" Name=".Clubhall_PList.Dir">
+            <PlistImageFile Name="back_ClubHall.png" Key="back_ClubHall.png" />
+            <PlistImageFile Name="bcbm_ClubHall.png" Key="bcbm_ClubHall.png" />
+            <PlistImageFile Name="brjj_ClubHall.png" Key="brjj_ClubHall.png" />
+            <PlistImageFile Name="chongzhi_ClubHall.png" Key="chongzhi_ClubHall.png" />
+            <PlistImageFile Name="dgn_ClubHall.png" Key="dgn_ClubHall.png" />
+            <PlistImageFile Name="dibu_ClubHall.png" Key="dibu_ClubHall.png" />
+            <PlistImageFile Name="dzpk_ClubHall.png" Key="dzpk_ClubHall.png" />
+            <PlistImageFile Name="fanhui_ClubHall.png" Key="fanhui_ClubHall.png" />
+            <PlistImageFile Name="gonggao.png" Key="gonggao.png" />
+            <PlistImageFile Name="huodong1.png" Key="huodong1.png" />
+            <PlistImageFile Name="jb_ClubHall.png" Key="jb_ClubHall.png" />
+            <PlistImageFile Name="kaishe_ClubHall.png" Key="kaishe_ClubHall.png" />
+            <PlistImageFile Name="kouzhao.png" Key="kouzhao.png" />
+            <PlistImageFile Name="nn_ClubHall.png" Key="nn_ClubHall.png" />
+            <PlistImageFile Name="pdk_ClubHall.png" Key="pdk_ClubHall.png" />
+            <PlistImageFile Name="qb_ClubHall.png" Key="qb_ClubHall.png" />
+            <PlistImageFile Name="qianbao_ClubHall.png" Key="qianbao_ClubHall.png" />
+            <PlistImageFile Name="sg_ClubHall.png" Key="sg_ClubHall.png" />
+            <PlistImageFile Name="sgbjh_ClubHall.png" Key="sgbjh_ClubHall.png" />
+            <PlistImageFile Name="shuaxin_ClubHall.png" Key="shuaxin_ClubHall.png" />
+            <PlistImageFile Name="tixian_ClubHall.png" Key="tixian_ClubHall.png" />
+            <PlistImageFile Name="tongji_ClubHall.png" Key="tongji_ClubHall.png" />
+            <PlistImageFile Name="tongzhi_ClubHall.png" Key="tongzhi_ClubHall.png" />
+            <PlistImageFile Name="tuandui_ClubHall.png" Key="tuandui_ClubHall.png" />
+            <PlistImageFile Name="xuanzhe_ClubHall.png" Key="xuanzhe_ClubHall.png" />
+            <PlistImageFile Name="xuanzhe_ok_ClubHall.png" Key="xuanzhe_ok_ClubHall.png" />
+            <PlistImageFile Name="xuanzhong_ClubHall.png" Key="xuanzhong_ClubHall.png" />
+            <PlistImageFile Name="yousahng_ClubHall.png" Key="yousahng_ClubHall.png" />
+            <PlistImageFile Name="zengsong_ClubHall.png" Key="zengsong_ClubHall.png" />
+            <PlistImageFile Name="zhankuang_ClubHall.png" Key="zhankuang_ClubHall.png" />
+            <PlistImageFile Name="zhuanshu_ClubHall.png" Key="zhuanshu_ClubHall.png" />
+            <PlistImageFile Name="zuoce_ClubHall.png" Key="zuoce_ClubHall.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="ClubPage.png" PListFile="ClubPage.plist" Name=".ClubPage_PList.Dir">
+            <PlistImageFile Name="baocun_cpl.png" Key="baocun_cpl.png" />
+            <PlistImageFile Name="btn_baocun.png" Key="btn_baocun.png" />
+            <PlistImageFile Name="btn_bdqb_cpl.png" Key="btn_bdqb_cpl.png" />
+            <PlistImageFile Name="btn_ccc.png" Key="btn_ccc.png" />
+            <PlistImageFile Name="btn_cccsxxx.png" Key="btn_cccsxxx.png" />
+            <PlistImageFile Name="btn_ccj.png" Key="btn_ccj.png" />
+            <PlistImageFile Name="btn_chakan.png" Key="btn_chakan.png" />
+            <PlistImageFile Name="btn_chaxun_cpl.png" Key="btn_chaxun_cpl.png" />
+            <PlistImageFile Name="btn_ckan.png" Key="btn_ckan.png" />
+            <PlistImageFile Name="btn_cpl.png" Key="btn_cpl.png" />
+            <PlistImageFile Name="btn_cun_cpl.png" Key="btn_cun_cpl.png" />
+            <PlistImageFile Name="btn_cyss.png" Key="btn_cyss.png" />
+            <PlistImageFile Name="btn_cyyy.png" Key="btn_cyyy.png" />
+            <PlistImageFile Name="btn_ddj.png" Key="btn_ddj.png" />
+            <PlistImageFile Name="btn_djd.png" Key="btn_djd.png" />
+            <PlistImageFile Name="btn_erweima_cpl.png" Key="btn_erweima_cpl.png" />
+            <PlistImageFile Name="btn_ffsssa.png" Key="btn_ffsssa.png" />
+            <PlistImageFile Name="btn_genghuan.png" Key="btn_genghuan.png" />
+            <PlistImageFile Name="btn_guanz_cpl.png" Key="btn_guanz_cpl.png" />
+            <PlistImageFile Name="btn_gzzz.png" Key="btn_gzzz.png" />
+            <PlistImageFile Name="btn_jiesan.png" Key="btn_jiesan.png" />
+            <PlistImageFile Name="btn_jinru.png" Key="btn_jinru.png" />
+            <PlistImageFile Name="btn_jjf.png" Key="btn_jjf.png" />
+            <PlistImageFile Name="btn_jmf.png" Key="btn_jmf.png" />
+            <PlistImageFile Name="btn_junru_cpl.png" Key="btn_junru_cpl.png" />
+            <PlistImageFile Name="btn_kuaisuchaxun.png" Key="btn_kuaisuchaxun.png" />
+            <PlistImageFile Name="btn_lishi.png" Key="btn_lishi.png" />
+            <PlistImageFile Name="btn_qdzs_cpl.png" Key="btn_qdzs_cpl.png" />
+            <PlistImageFile Name="btn_qiongkong.png" Key="btn_qiongkong.png" />
+            <PlistImageFile Name="btn_qub_cpl.png" Key="btn_qub_cpl.png" />
+            <PlistImageFile Name="btn_quchu_cpl.png" Key="btn_quchu_cpl.png" />
+            <PlistImageFile Name="btn_qued.png" Key="btn_qued.png" />
+            <PlistImageFile Name="btn_queren_cpl.png" Key="btn_queren_cpl.png" />
+            <PlistImageFile Name="btn_qxfqz.png" Key="btn_qxfqz.png" />
+            <PlistImageFile Name="btn_sccy_cll.png" Key="btn_sccy_cll.png" />
+            <PlistImageFile Name="btn_schhr_cll.png" Key="btn_schhr_cll.png" />
+            <PlistImageFile Name="btn_schuiyan.png" Key="btn_schuiyan.png" />
+            <PlistImageFile Name="btn_selt_1.png" Key="btn_selt_1.png" />
+            <PlistImageFile Name="btn_selt_2.png" Key="btn_selt_2.png" />
+            <PlistImageFile Name="btn_shanchuhehuoren.png" Key="btn_shanchuhehuoren.png" />
+            <PlistImageFile Name="btn_shanchuhy.png" Key="btn_shanchuhy.png" />
+            <PlistImageFile Name="btn_shequn.png" Key="btn_shequn.png" />
+            <PlistImageFile Name="btn_shyonh.png" Key="btn_shyonh.png" />
+            <PlistImageFile Name="btn_ssong.png" Key="btn_ssong.png" />
+            <PlistImageFile Name="btn_sure.png" Key="btn_sure.png" />
+            <PlistImageFile Name="btn_tiaozheng.png" Key="btn_tiaozheng.png" />
+            <PlistImageFile Name="btn_tijiao_cpl.png" Key="btn_tijiao_cpl.png" />
+            <PlistImageFile Name="btn_tjhhr.png" Key="btn_tjhhr.png" />
+            <PlistImageFile Name="btn_tjiachengyuan.png" Key="btn_tjiachengyuan.png" />
+            <PlistImageFile Name="btn_ttt_cpl.png" Key="btn_ttt_cpl.png" />
+            <PlistImageFile Name="btn_tttccc.png" Key="btn_tttccc.png" />
+            <PlistImageFile Name="btn_wdwj.png" Key="btn_wdwj.png" />
+            <PlistImageFile Name="btn_www.png" Key="btn_www.png" />
+            <PlistImageFile Name="btn_xiangqing.png" Key="btn_xiangqing.png" />
+            <PlistImageFile Name="btn_xshhr.png" Key="btn_xshhr.png" />
+            <PlistImageFile Name="btn_xswj.png" Key="btn_xswj.png" />
+            <PlistImageFile Name="btn_xuxiao.png" Key="btn_xuxiao.png" />
+            <PlistImageFile Name="btn_yinhang_cpl.png" Key="btn_yinhang_cpl.png" />
+            <PlistImageFile Name="btn_zh_cpl.png" Key="btn_zh_cpl.png" />
+            <PlistImageFile Name="btn_zqt.png" Key="btn_zqt.png" />
+            <PlistImageFile Name="btn_zsoo.png" Key="btn_zsoo.png" />
+            <PlistImageFile Name="btn_zzt.png" Key="btn_zzt.png" />
+            <PlistImageFile Name="btnfenxiang.png" Key="btnfenxiang.png" />
+            <PlistImageFile Name="chakanguize.png" Key="chakanguize.png" />
+            <PlistImageFile Name="chengyuan_cpl.png" Key="chengyuan_cpl.png" />
+            <PlistImageFile Name="chognzhi_cpl.png" Key="chognzhi_cpl.png" />
+            <PlistImageFile Name="cj.png" Key="cj.png" />
+            <PlistImageFile Name="cjhhr_cpl.png" Key="cjhhr_cpl.png" />
+            <PlistImageFile Name="duo_di.png" Key="duo_di.png" />
+            <PlistImageFile Name="duo_jiantou.png" Key="duo_jiantou.png" />
+            <PlistImageFile Name="duo_y.png" Key="duo_y.png" />
+            <PlistImageFile Name="dxtongchi.png" Key="dxtongchi.png" />
+            <PlistImageFile Name="dxtongchi1.png" Key="dxtongchi1.png" />
+            <PlistImageFile Name="fangjian_cpl.png" Key="fangjian_cpl.png" />
+            <PlistImageFile Name="fuqunzhu.png" Key="fuqunzhu.png" />
+            <PlistImageFile Name="gonggaot.png" Key="gonggaot.png" />
+            <PlistImageFile Name="huoren.png" Key="huoren.png" />
+            <PlistImageFile Name="jifentongji.png" Key="jifentongji.png" />
+            <PlistImageFile Name="paixing.png" Key="paixing.png" />
+            <PlistImageFile Name="qbkuaijie_cpl.png" Key="qbkuaijie_cpl.png" />
+            <PlistImageFile Name="qbshunru_cpl.png" Key="qbshunru_cpl.png" />
+            <PlistImageFile Name="qianbao_cpl.png" Key="qianbao_cpl.png" />
+            <PlistImageFile Name="qiangzhuang.png" Key="qiangzhuang.png" />
+            <PlistImageFile Name="qiangzhuang1.png" Key="qiangzhuang1.png" />
+            <PlistImageFile Name="qunzhu.png" Key="qunzhu.png" />
+            <PlistImageFile Name="schhr_cpl.png" Key="schhr_cpl.png" />
+            <PlistImageFile Name="shanchu.png" Key="shanchu.png" />
+            <PlistImageFile Name="shanchuchengyuan.png" Key="shanchuchengyuan.png" />
+            <PlistImageFile Name="shang.png" Key="shang.png" />
+            <PlistImageFile Name="shang_1.png" Key="shang_1.png" />
+            <PlistImageFile Name="shang_2.png" Key="shang_2.png" />
+            <PlistImageFile Name="shang_3.png" Key="shang_3.png" />
+            <PlistImageFile Name="ti_cpl.png" Key="ti_cpl.png" />
+            <PlistImageFile Name="tj_h.png" Key="tj_h.png" />
+            <PlistImageFile Name="tj_lv.png" Key="tj_lv.png" />
+            <PlistImageFile Name="tuandui.png" Key="tuandui.png" />
+            <PlistImageFile Name="txk_1_cpl.png" Key="txk_1_cpl.png" />
+            <PlistImageFile Name="wanjia_cpl.png" Key="wanjia_cpl.png" />
+            <PlistImageFile Name="wddikuang.png" Key="wddikuang.png" />
+            <PlistImageFile Name="wodecy.png" Key="wodecy.png" />
+            <PlistImageFile Name="wodewanjia.png" Key="wodewanjia.png" />
+            <PlistImageFile Name="xiashu_cpl.png" Key="xiashu_cpl.png" />
+            <PlistImageFile Name="xixiaoqu.png" Key="xixiaoqu.png" />
+            <PlistImageFile Name="xuanzhe_ClubHall.png" Key="xuanzhe_ClubHall.png" />
+            <PlistImageFile Name="xuanzhe_ok_ClubHall.png" Key="xuanzhe_ok_ClubHall.png" />
+            <PlistImageFile Name="yaojiaodd.png" Key="yaojiaodd.png" />
+            <PlistImageFile Name="yaoqing_cpl.png" Key="yaoqing_cpl.png" />
+            <PlistImageFile Name="zaixina_cpl.png" Key="zaixina_cpl.png" />
+            <PlistImageFile Name="zengsong_cpl.png" Key="zengsong_cpl.png" />
+            <PlistImageFile Name="zhanjixianqqq.png" Key="zhanjixianqqq.png" />
+            <PlistImageFile Name="zs3_cpl.png" Key="zs3_cpl.png" />
+            <PlistImageFile Name="zsjia.png" Key="zsjia.png" />
+            <PlistImageFile Name="zsjian.png" Key="zsjian.png" />
+            <PlistImageFile Name="zsshurukuang_cpl.png" Key="zsshurukuang_cpl.png" />
+            <PlistImageFile Name="zzcjfangjian.png" Key="zzcjfangjian.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="ClubTalbe.png" PListFile="ClubTalbe.plist" Name=".ClubTalbe_PList.Dir">
+            <PlistImageFile Name="bairen_1.png" Key="bairen_1.png" />
+            <PlistImageFile Name="bairen_2.png" Key="bairen_2.png" />
+            <PlistImageFile Name="bairen_3.png" Key="bairen_3.png" />
+            <PlistImageFile Name="bairen_4.png" Key="bairen_4.png" />
+            <PlistImageFile Name="bairen_5.png" Key="bairen_5.png" />
+            <PlistImageFile Name="biaoshi.png" Key="biaoshi.png" />
+            <PlistImageFile Name="head.png" Key="head.png" />
+            <PlistImageFile Name="head_k.png" Key="head_k.png" />
+            <PlistImageFile Name="pao_bj1.png" Key="pao_bj1.png" />
+            <PlistImageFile Name="putong10_1.png" Key="putong10_1.png" />
+            <PlistImageFile Name="putong10_2.png" Key="putong10_2.png" />
+            <PlistImageFile Name="putong10_3.png" Key="putong10_3.png" />
+            <PlistImageFile Name="putong10_5.png" Key="putong10_5.png" />
+            <PlistImageFile Name="putong10_6.png" Key="putong10_6.png" />
+            <PlistImageFile Name="putong10_7.png" Key="putong10_7.png" />
+            <PlistImageFile Name="putong6_1.png" Key="putong6_1.png" />
+            <PlistImageFile Name="putong6_2.png" Key="putong6_2.png" />
+            <PlistImageFile Name="putong6_3.png" Key="putong6_3.png" />
+            <PlistImageFile Name="putong6_5.png" Key="putong6_5.png" />
+            <PlistImageFile Name="putong6_6.png" Key="putong6_6.png" />
+            <PlistImageFile Name="putong6_7.png" Key="putong6_7.png" />
+            <PlistImageFile Name="putong8_1.png" Key="putong8_1.png" />
+            <PlistImageFile Name="putong8_2.png" Key="putong8_2.png" />
+            <PlistImageFile Name="putong8_3.png" Key="putong8_3.png" />
+            <PlistImageFile Name="putong8_5.png" Key="putong8_5.png" />
+            <PlistImageFile Name="putong8_6.png" Key="putong8_6.png" />
+            <PlistImageFile Name="putong8_7.png" Key="putong8_7.png" />
+            <PlistImageFile Name="table_sc.png" Key="table_sc.png" />
+          </PlistImageFolder>
+          <Folder Name="Layer">
+            <Project Name="BagLayer.csd" Type="Layer" />
+            <Project Name="bagscoreSet.csd" Type="Layer" />
+            <Project Name="ChongzhiLayer.csd" Type="Layer" />
+            <Project Name="cjhhr.csd" Type="Layer" />
+            <Project Name="ClubLayer.csd" Type="Layer" />
+            <Project Name="cygl.csd" Type="Layer" />
+            <Project Name="cyglcy.csd" Type="Layer" />
+            <Project Name="delhhr.csd" Type="Layer" />
+            <Project Name="delwj.csd" Type="Layer" />
+            <Project Name="drculd.csd" Type="Layer" />
+            <Project Name="NewStatisticsLayer.csd" Type="Layer" />
+            <Project Name="NoticeLayer.csd" Type="Layer" />
+            <Project Name="PlayerInfo.csd" Type="Layer" />
+            <Project Name="RankLayer.csd" Type="Layer" />
+            <Project Name="RecordLayer.csd" Type="Layer" />
+            <Project Name="riqiLayer.csd" Type="Layer" />
+            <Project Name="scoreSet.csd" Type="Layer" />
+            <Project Name="TableLayer.csd" Type="Layer" />
+            <Project Name="TxianLayer.csd" Type="Layer" />
+            <Project Name="wjxy.csd" Type="Layer" />
+            <Project Name="yqwj.csd" Type="Layer" />
+            <Project Name="ZengSongLayer.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="Public">
+            <Image Name="duoxuananniubj.png" />
+            <Image Name="erweima.png" />
+            <Image Name="qbkuang_cpl.png" />
+            <Image Name="tctiskuang_cpl.png" />
+            <Image Name="txk_cpl.png" />
+            <Image Name="wwwdi.png" />
+            <Image Name="zhanji.png" />
+            <Image Name="zhanjiditu.png" />
+            <Image Name="zsm_bj.png" />
+            <Image Name="zsm_guanbi.png" />
+          </Folder>
+          <Folder Name="record">
+            <Image Name="biaoge1.png" />
+            <Image Name="biaoge2.png" />
+            <Image Name="biaoge3.png" />
+            <Image Name="biaoge4.png" />
+            <Image Name="bm_tb_1.png" />
+            <Image Name="dddd.png" />
+            <Image Name="recorde_hei.png" />
+          </Folder>
+          <Folder Name="RoomLayer">
+            <Project Name="Room_CrbrLayer.csd" Type="Layer" />
+            <Project Name="Room_CrcowLayer.csd" Type="Layer" />
+            <Project Name="Room_CrDcowLayer.csd" Type="Layer" />
+            <Project Name="Room_CrdzLayer.csd" Type="Layer" />
+            <Project Name="Room_CreatorLayer.csd" Type="Layer" />
+            <Project Name="Room_CrsgbjhLayer.csd" Type="Layer" />
+            <Project Name="Room_CrsgLayer.csd" Type="Layer" />
+            <Project Name="Room_tableinfo.csd" Type="Layer" />
+            <Project Name="Room_UpdateLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+        <Folder Name="font">
+          <TTF Name="FZY4JW.TTF" />
+        </Folder>
+        <Folder Name="Game">
+          <PlistImageFolder Image="Bcbm.png" PListFile="Bcbm.plist" Name=".Bcbm_PList.Dir">
+            <PlistImageFile Name="bm_btn_gz.png" Key="bm_btn_gz.png" />
+            <PlistImageFile Name="bm_btn_qb.png" Key="bm_btn_qb.png" />
+            <PlistImageFile Name="bm_btn_qx.png" Key="bm_btn_qx.png" />
+            <PlistImageFile Name="bm_btn_qx2.png" Key="bm_btn_qx2.png" />
+            <PlistImageFile Name="bm_btn_sz.png" Key="bm_btn_sz.png" />
+            <PlistImageFile Name="bm_btn_xz.png" Key="bm_btn_xz.png" />
+            <PlistImageFile Name="bm_btnz_qx.png" Key="bm_btnz_qx.png" />
+            <PlistImageFile Name="bm_btnz_qx2.png" Key="bm_btnz_qx2.png" />
+            <PlistImageFile Name="bm_btnz_sq.png" Key="bm_btnz_sq.png" />
+            <PlistImageFile Name="bm_btnz_sz.png" Key="bm_btnz_sz.png" />
+            <PlistImageFile Name="bm_cmbx.png" Key="bm_cmbx.png" />
+            <PlistImageFile Name="bm_cmxz.png" Key="bm_cmxz.png" />
+            <PlistImageFile Name="bm_dk.png" Key="bm_dk.png" />
+            <PlistImageFile Name="bm_jb_da.png" Key="bm_jb_da.png" />
+            <PlistImageFile Name="bm_jb_xiao.png" Key="bm_jb_xiao.png" />
+            <PlistImageFile Name="bm_kexiazhu.png" Key="bm_kexiazhu.png" />
+            <PlistImageFile Name="bm_ksxz.png" Key="bm_ksxz.png" />
+            <PlistImageFile Name="bm_paomadeng.png" Key="bm_paomadeng.png" />
+            <PlistImageFile Name="bm_renshu.png" Key="bm_renshu.png" />
+            <PlistImageFile Name="bm_sz_x.png" Key="bm_sz_x.png" />
+            <PlistImageFile Name="bm_tb_1.png" Key="bm_tb_1.png" />
+            <PlistImageFile Name="bm_tb_2.png" Key="bm_tb_2.png" />
+            <PlistImageFile Name="bm_tb_3.png" Key="bm_tb_3.png" />
+            <PlistImageFile Name="bm_tb_4.png" Key="bm_tb_4.png" />
+            <PlistImageFile Name="bm_tb_5.png" Key="bm_tb_5.png" />
+            <PlistImageFile Name="bm_tb_6.png" Key="bm_tb_6.png" />
+            <PlistImageFile Name="bm_tb_7.png" Key="bm_tb_7.png" />
+            <PlistImageFile Name="bm_tb_8.png" Key="bm_tb_8.png" />
+            <PlistImageFile Name="bm_tubiao.png" Key="bm_tubiao.png" />
+            <PlistImageFile Name="bm_tzxz.png" Key="bm_tzxz.png" />
+            <PlistImageFile Name="bm_xiazhuk.png" Key="bm_xiazhuk.png" />
+            <PlistImageFile Name="bm_xin.png" Key="bm_xin.png" />
+            <PlistImageFile Name="bm_xutou.png" Key="bm_xutou.png" />
+            <PlistImageFile Name="bm_xutou_2.png" Key="bm_xutou_2.png" />
+            <PlistImageFile Name="bm_zhishi.png" Key="bm_zhishi.png" />
+            <PlistImageFile Name="dikuang.png" Key="dikuang.png" />
+            <PlistImageFile Name="duzhuang_wenzkuang.png" Key="duzhuang_wenzkuang.png" />
+            <PlistImageFile Name="kongwei.png" Key="kongwei.png" />
+            <PlistImageFile Name="tankuang_bt.png" Key="tankuang_bt.png" />
+            <PlistImageFile Name="tankuang_di.png" Key="tankuang_di.png" />
+            <PlistImageFile Name="tankuang_di2.png" Key="tankuang_di2.png" />
+            <PlistImageFile Name="tankuang_liebiao.png" Key="tankuang_liebiao.png" />
+            <PlistImageFile Name="touxaingkuang_zhuangdi.png" Key="touxaingkuang_zhuangdi.png" />
+            <PlistImageFile Name="touxaingkuangzhuang.png" Key="touxaingkuangzhuang.png" />
+            <PlistImageFile Name="xuanzhong_fang.png" Key="xuanzhong_fang.png" />
+            <PlistImageFile Name="xuanzhong_you1.png" Key="xuanzhong_you1.png" />
+            <PlistImageFile Name="xuanzhong_you2.png" Key="xuanzhong_you2.png" />
+            <PlistImageFile Name="xuanzhong_zuo1.png" Key="xuanzhong_zuo1.png" />
+            <PlistImageFile Name="xuanzhong_zuo2.png" Key="xuanzhong_zuo2.png" />
+            <PlistImageFile Name="zijixiazhu.png" Key="zijixiazhu.png" />
+          </PlistImageFolder>
+          <Folder Name="brAction">
+            <Folder Name="ani_dss_ksxz">
+              <ExportJsonFile Name="ani_dss_ksxz.ExportJson" />
+            </Folder>
+            <Folder Name="ani_dss_l">
+              <ExportJsonFile Name="ani_dss_l.ExportJson" />
+            </Folder>
+            <Folder Name="ani_dtyl_sg">
+              <ExportJsonFile Name="ani_dtyl_sg.ExportJson" />
+            </Folder>
+            <Folder Name="ani_dtyl_sg_ksxz">
+              <ExportJsonFile Name="ani_dtyl_sg_ksxz.ExportJson" />
+            </Folder>
+            <Folder Name="ani_lhd_h">
+              <ExportJsonFile Name="ani_lhd_h.ExportJson" />
+            </Folder>
+            <Folder Name="ani_lhd_ksxz">
+              <ExportJsonFile Name="ani_lhd_ksxz.ExportJson" />
+            </Folder>
+            <Folder Name="ani_lhd_l">
+              <ExportJsonFile Name="ani_lhd_l.ExportJson" />
+            </Folder>
+            <Folder Name="ani_nn">
+              <ExportJsonFile Name="ani_nn.ExportJson" />
+            </Folder>
+            <Folder Name="ani_sg_ying">
+              <ExportJsonFile Name="ani_sg_ying.ExportJson" />
+            </Folder>
+          </Folder>
+          <Folder Name="brbm">
+            <Image Name="bj.png" />
+            <Image Name="bm_zhuo.png" />
+          </Folder>
+          <Folder Name="brdss">
+            <Image Name="beishudi.png" />
+            <Image Name="bj1.png" />
+            <Image Name="bj2.png" />
+            <Image Name="bj3.png" />
+            <Image Name="d_x.png" />
+            <Image Name="d_z.png" />
+            <Image Name="jinbi.png" />
+            <Image Name="jinbi_di.png" />
+            <Image Name="k_bt1.png" />
+            <Image Name="k_bt2.png" />
+            <Image Name="kongwei.png" />
+            <Image Name="longhubeijing.png" />
+            <Image Name="qushi.png" />
+            <Image Name="qushidi.png" />
+            <Image Name="top_di.png" />
+            <Image Name="zhuang.png" />
+          </Folder>
+          <Folder Name="brLayer">
+            <Project Name="brbcbmLayer.csd" Type="Layer" />
+            <Project Name="brcowLayer.csd" Type="Layer" />
+            <Project Name="brdssLayer.csd" Type="Layer" />
+            <Project Name="brlhdLayer.csd" Type="Layer" />
+            <Project Name="BrlhdTrendLayer.csd" Type="Layer" />
+            <Project Name="brsgLayer.csd" Type="Layer" />
+            <Project Name="BrssTrendLayer.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="brlhd">
+            <Image Name="b_zs.png" />
+            <Image Name="biaodi.png" />
+            <Image Name="bj1.png" />
+            <Image Name="bj2.png" />
+            <Image Name="bj3.png" />
+            <Image Name="di.png" />
+            <Image Name="gg.png" />
+            <Image Name="gg2.png" />
+            <Image Name="ggg.png" />
+            <Image Name="ggg2.png" />
+            <Image Name="h_1.png" />
+            <Image Name="h_2.png" />
+            <Image Name="h1.png" />
+            <Image Name="h2.png" />
+            <Image Name="h3.png" />
+            <Image Name="jiantou.png" />
+            <Image Name="lhzs.png" />
+            <Image Name="pailudi.png" />
+            <Image Name="px1.png" />
+            <Image Name="px2.png" />
+            <Image Name="px3.png" />
+          </Folder>
+          <Folder Name="brpublic">
+            <Folder Name="brnui">
+              <Image Name="1cjjb.png" />
+              <Image Name="1jb.png" />
+              <Image Name="1pb.png" />
+              <Image Name="2cjjb.png" />
+              <Image Name="2jb.png" />
+              <Image Name="2pb.png" />
+              <Image Name="3cjjb.png" />
+              <Image Name="3jb.png" />
+              <Image Name="3pb.png" />
+              <Image Name="b_fu.png" />
+              <Image Name="b_s.png" />
+              <Image Name="biaodi.png" />
+              <Image Name="btn_gq.png" />
+              <Image Name="btn_gsz.png" />
+              <Image Name="btn_gxz.png" />
+              <Image Name="btn_qx.png" />
+              <Image Name="btn_sqs.png" />
+              <Image Name="btn_xz.png" />
+              <Image Name="close.png" />
+              <Image Name="dabaidi.png" />
+              <Image Name="lanse.png" />
+              <Image Name="nem.png" />
+              <Image Name="new.png" />
+              <Image Name="qxsq.png" />
+              <Image Name="selectgs.png" />
+              <Image Name="shangzuant.png" />
+              <Image Name="shangzud.png" />
+              <Image Name="sise.png" />
+              <Image Name="sqsz.png" />
+              <Image Name="sqzz.png" />
+              <Image Name="tetle_sz.png" />
+              <Image Name="tetle_wj.png" />
+              <Image Name="tetle_zs.png" />
+              <Image Name="tetled.png" />
+              <Image Name="wanjiadi.png" />
+              <Image Name="xuanzhong.png" />
+              <Image Name="zlist.png" />
+              <Image Name="zoushib.png" />
+              <Image Name="zoushidi.png" />
+              <Image Name="zsdt.png" />
+            </Folder>
+            <Folder Name="brplayerlist">
+              <Image Name="tetle_js.png" />
+              <Image Name="w_b.png" />
+              <Image Name="w_d.png" />
+              <Image Name="w_p1.png" />
+              <Image Name="w_p11.png" />
+              <Image Name="w_p12.png" />
+              <Image Name="w_p2.png" />
+              <Image Name="w_s.png" />
+              <Image Name="w_t.png" />
+              <Image Name="w_z.png" />
+            </Folder>
+            <Folder Name="brTrend">
+              <Image Name="biaodi.png" />
+              <Image Name="biaoti.png" />
+              <Image Name="close.png" />
+              <Image Name="dadi.png" />
+              <Image Name="jin20ju.png" />
+              <Image Name="jindu.png" />
+              <Image Name="jinduhong.png" />
+              <Image Name="jindulan.png" />
+              <Image Name="juxing.png" />
+              <Image Name="kuai.png" />
+              <Image Name="niuniu.png" />
+              <Image Name="pailu.png" />
+              <Image Name="pailubt.png" />
+              <Image Name="xian.png" />
+              <Image Name="xian1.png" />
+              <Image Name="xian2.png" />
+              <Image Name="xian3.png" />
+              <Image Name="xiandi.png" />
+              <Image Name="zhuang.png" />
+              <Image Name="zhuangdi.png" />
+              <Image Name="zxd.png" />
+            </Folder>
+            <Image Name="brbj1.png" />
+            <Image Name="brbj2.png" />
+            <Image Name="brbj3.png" />
+            <Image Name="mun_djs.png" />
+          </Folder>
+          <PlistImageFolder Image="BrPublic.png" PListFile="BrPublic.plist" Name=".BrPublic_PList.Dir">
+            <PlistImageFile Name="b_qx.png" Key="b_qx.png" />
+            <PlistImageFile Name="b_sz.png" Key="b_sz.png" />
+            <PlistImageFile Name="b_x.png" Key="b_x.png" />
+            <PlistImageFile Name="b_x_1.png" Key="b_x_1.png" />
+            <PlistImageFile Name="b_xia.png" Key="b_xia.png" />
+            <PlistImageFile Name="b_xia1.png" Key="b_xia1.png" />
+            <PlistImageFile Name="b1.png" Key="b1.png" />
+            <PlistImageFile Name="b10.png" Key="b10.png" />
+            <PlistImageFile Name="b100.png" Key="b100.png" />
+            <PlistImageFile Name="b1000.png" Key="b1000.png" />
+            <PlistImageFile Name="b200.png" Key="b200.png" />
+            <PlistImageFile Name="b50.png" Key="b50.png" />
+            <PlistImageFile Name="b500.png" Key="b500.png" />
+            <PlistImageFile Name="bb10.png" Key="bb10.png" />
+            <PlistImageFile Name="bb100.png" Key="bb100.png" />
+            <PlistImageFile Name="bb1000.png" Key="bb1000.png" />
+            <PlistImageFile Name="bb2000.png" Key="bb2000.png" />
+            <PlistImageFile Name="bb50.png" Key="bb50.png" />
+            <PlistImageFile Name="bb500.png" Key="bb500.png" />
+            <PlistImageFile Name="bbh10.png" Key="bbh10.png" />
+            <PlistImageFile Name="bbh100.png" Key="bbh100.png" />
+            <PlistImageFile Name="bbh1000.png" Key="bbh1000.png" />
+            <PlistImageFile Name="bbh2000.png" Key="bbh2000.png" />
+            <PlistImageFile Name="bbh50.png" Key="bbh50.png" />
+            <PlistImageFile Name="bbh500.png" Key="bbh500.png" />
+            <PlistImageFile Name="bh1.png" Key="bh1.png" />
+            <PlistImageFile Name="bh10.png" Key="bh10.png" />
+            <PlistImageFile Name="bh100.png" Key="bh100.png" />
+            <PlistImageFile Name="bh1000.png" Key="bh1000.png" />
+            <PlistImageFile Name="bh200.png" Key="bh200.png" />
+            <PlistImageFile Name="bh50.png" Key="bh50.png" />
+            <PlistImageFile Name="bh500.png" Key="bh500.png" />
+            <PlistImageFile Name="bottom.png" Key="bottom.png" />
+            <PlistImageFile Name="brshezhi.png" Key="brshezhi.png" />
+            <PlistImageFile Name="btn_guize.png" Key="btn_guize.png" />
+            <PlistImageFile Name="btn_q.png" Key="btn_q.png" />
+            <PlistImageFile Name="btn_sz.png" Key="btn_sz.png" />
+            <PlistImageFile Name="btn_xz.png" Key="btn_xz.png" />
+            <PlistImageFile Name="cm1.png" Key="cm1.png" />
+            <PlistImageFile Name="cm10.png" Key="cm10.png" />
+            <PlistImageFile Name="cm100.png" Key="cm100.png" />
+            <PlistImageFile Name="cm1000.png" Key="cm1000.png" />
+            <PlistImageFile Name="cm1000b.png" Key="cm1000b.png" />
+            <PlistImageFile Name="cm100b.png" Key="cm100b.png" />
+            <PlistImageFile Name="cm10b.png" Key="cm10b.png" />
+            <PlistImageFile Name="cm1b.png" Key="cm1b.png" />
+            <PlistImageFile Name="cm500.png" Key="cm500.png" />
+            <PlistImageFile Name="cm500b.png" Key="cm500b.png" />
+            <PlistImageFile Name="cmm10.png" Key="cmm10.png" />
+            <PlistImageFile Name="cmm100.png" Key="cmm100.png" />
+            <PlistImageFile Name="cmm1000.png" Key="cmm1000.png" />
+            <PlistImageFile Name="cmm1000bb.png" Key="cmm1000bb.png" />
+            <PlistImageFile Name="cmm100bb.png" Key="cmm100bb.png" />
+            <PlistImageFile Name="cmm10bb.png" Key="cmm10bb.png" />
+            <PlistImageFile Name="cmm2000.png" Key="cmm2000.png" />
+            <PlistImageFile Name="cmm2000bb.png" Key="cmm2000bb.png" />
+            <PlistImageFile Name="cmm50.png" Key="cmm50.png" />
+            <PlistImageFile Name="cmm500.png" Key="cmm500.png" />
+            <PlistImageFile Name="cmm500bb.png" Key="cmm500bb.png" />
+            <PlistImageFile Name="cmm50bb.png" Key="cmm50bb.png" />
+            <PlistImageFile Name="coin_icon.png" Key="coin_icon.png" />
+            <PlistImageFile Name="dafuhao.png" Key="dafuhao.png" />
+            <PlistImageFile Name="guang.png" Key="guang.png" />
+            <PlistImageFile Name="m1.png" Key="m1.png" />
+            <PlistImageFile Name="m10.png" Key="m10.png" />
+            <PlistImageFile Name="m100.png" Key="m100.png" />
+            <PlistImageFile Name="m1000.png" Key="m1000.png" />
+            <PlistImageFile Name="m500.png" Key="m500.png" />
+            <PlistImageFile Name="mun_di.png" Key="mun_di.png" />
+            <PlistImageFile Name="mun_dz.png" Key="mun_dz.png" />
+            <PlistImageFile Name="onle.png" Key="onle.png" />
+            <PlistImageFile Name="qianbao.png" Key="qianbao.png" />
+            <PlistImageFile Name="qxsq.png" Key="qxsq.png" />
+            <PlistImageFile Name="retrun.png" Key="retrun.png" />
+            <PlistImageFile Name="selectg.png" Key="selectg.png" />
+            <PlistImageFile Name="shensuanzi.png" Key="shensuanzi.png" />
+            <PlistImageFile Name="sqsz.png" Key="sqsz.png" />
+            <PlistImageFile Name="sqzz.png" Key="sqzz.png" />
+            <PlistImageFile Name="tubiao.png" Key="tubiao.png" />
+            <PlistImageFile Name="tx_head.png" Key="tx_head.png" />
+            <PlistImageFile Name="tx_kuang.png" Key="tx_kuang.png" />
+            <PlistImageFile Name="wanjd.png" Key="wanjd.png" />
+            <PlistImageFile Name="X.png" Key="X.png" />
+            <PlistImageFile Name="yd_1.png" Key="yd_1.png" />
+            <PlistImageFile Name="yd_2.png" Key="yd_2.png" />
+            <PlistImageFile Name="yd_3.png" Key="yd_3.png" />
+            <PlistImageFile Name="zhuangdi.png" Key="zhuangdi.png" />
+            <PlistImageFile Name="zijidi.png" Key="zijidi.png" />
+            <PlistImageFile Name="zoushi.png" Key="zoushi.png" />
+            <PlistImageFile Name="zoushib.png" Key="zoushib.png" />
+          </PlistImageFolder>
+          <Folder Name="brpublicLayer">
+            <Project Name="BagLayer.csd" Type="Layer" />
+            <Project Name="BrdzjListLayer.csd" Type="Layer" />
+            <Project Name="BrmzjListLayer.csd" Type="Layer" />
+            <Project Name="BrNPlayerListLayer.csd" Type="Layer" />
+            <Project Name="BrPlayerListLayer.csd" Type="Layer" />
+            <Project Name="BrRuleLayer.csd" Type="Layer" />
+            <Project Name="BrSettingLayer.csd" Type="Layer" />
+            <Project Name="BrTrendLayer.csd" Type="Layer" />
+          </Folder>
+          <PlistImageFolder Image="Cards.png" PListFile="Cards.plist" Name=".Cards_PList.Dir">
+            <PlistImageFile Name="card_1_0.png" Key="card_1_0.png" />
+            <PlistImageFile Name="card_1_1.png" Key="card_1_1.png" />
+            <PlistImageFile Name="card_1_10.png" Key="card_1_10.png" />
+            <PlistImageFile Name="card_1_11.png" Key="card_1_11.png" />
+            <PlistImageFile Name="card_1_12.png" Key="card_1_12.png" />
+            <PlistImageFile Name="card_1_2.png" Key="card_1_2.png" />
+            <PlistImageFile Name="card_1_3.png" Key="card_1_3.png" />
+            <PlistImageFile Name="card_1_4.png" Key="card_1_4.png" />
+            <PlistImageFile Name="card_1_5.png" Key="card_1_5.png" />
+            <PlistImageFile Name="card_1_6.png" Key="card_1_6.png" />
+            <PlistImageFile Name="card_1_7.png" Key="card_1_7.png" />
+            <PlistImageFile Name="card_1_8.png" Key="card_1_8.png" />
+            <PlistImageFile Name="card_1_9.png" Key="card_1_9.png" />
+            <PlistImageFile Name="card_2_0.png" Key="card_2_0.png" />
+            <PlistImageFile Name="card_2_1.png" Key="card_2_1.png" />
+            <PlistImageFile Name="card_2_10.png" Key="card_2_10.png" />
+            <PlistImageFile Name="card_2_11.png" Key="card_2_11.png" />
+            <PlistImageFile Name="card_2_12.png" Key="card_2_12.png" />
+            <PlistImageFile Name="card_2_2.png" Key="card_2_2.png" />
+            <PlistImageFile Name="card_2_3.png" Key="card_2_3.png" />
+            <PlistImageFile Name="card_2_4.png" Key="card_2_4.png" />
+            <PlistImageFile Name="card_2_5.png" Key="card_2_5.png" />
+            <PlistImageFile Name="card_2_6.png" Key="card_2_6.png" />
+            <PlistImageFile Name="card_2_7.png" Key="card_2_7.png" />
+            <PlistImageFile Name="card_2_8.png" Key="card_2_8.png" />
+            <PlistImageFile Name="card_2_9.png" Key="card_2_9.png" />
+            <PlistImageFile Name="card_3_0.png" Key="card_3_0.png" />
+            <PlistImageFile Name="card_3_1.png" Key="card_3_1.png" />
+            <PlistImageFile Name="card_3_10.png" Key="card_3_10.png" />
+            <PlistImageFile Name="card_3_11.png" Key="card_3_11.png" />
+            <PlistImageFile Name="card_3_12.png" Key="card_3_12.png" />
+            <PlistImageFile Name="card_3_13.png" Key="card_3_13.png" />
+            <PlistImageFile Name="card_3_2.png" Key="card_3_2.png" />
+            <PlistImageFile Name="card_3_3.png" Key="card_3_3.png" />
+            <PlistImageFile Name="card_3_4.png" Key="card_3_4.png" />
+            <PlistImageFile Name="card_3_5.png" Key="card_3_5.png" />
+            <PlistImageFile Name="card_3_6.png" Key="card_3_6.png" />
+            <PlistImageFile Name="card_3_7.png" Key="card_3_7.png" />
+            <PlistImageFile Name="card_3_8.png" Key="card_3_8.png" />
+            <PlistImageFile Name="card_3_9.png" Key="card_3_9.png" />
+            <PlistImageFile Name="card_4_0.png" Key="card_4_0.png" />
+            <PlistImageFile Name="card_4_1.png" Key="card_4_1.png" />
+            <PlistImageFile Name="card_4_10.png" Key="card_4_10.png" />
+            <PlistImageFile Name="card_4_11.png" Key="card_4_11.png" />
+            <PlistImageFile Name="card_4_12.png" Key="card_4_12.png" />
+            <PlistImageFile Name="card_4_13.png" Key="card_4_13.png" />
+            <PlistImageFile Name="card_4_2.png" Key="card_4_2.png" />
+            <PlistImageFile Name="card_4_3.png" Key="card_4_3.png" />
+            <PlistImageFile Name="card_4_4.png" Key="card_4_4.png" />
+            <PlistImageFile Name="card_4_5.png" Key="card_4_5.png" />
+            <PlistImageFile Name="card_4_6.png" Key="card_4_6.png" />
+            <PlistImageFile Name="card_4_7.png" Key="card_4_7.png" />
+            <PlistImageFile Name="card_4_8.png" Key="card_4_8.png" />
+            <PlistImageFile Name="card_4_9.png" Key="card_4_9.png" />
+            <PlistImageFile Name="ndjj_bcard_bg.png" Key="ndjj_bcard_bg.png" />
+            <PlistImageFile Name="ndjj_small.png" Key="ndjj_small.png" />
+          </PlistImageFolder>
+          <Folder Name="cowLayer">
+            <Folder Name="ani_pai_bai">
+              <ExportJsonFile Name="ani_pai_bai.ExportJson" />
+            </Folder>
+            <Folder Name="aniz_nn">
+              <ExportJsonFile Name="aniz_nn.ExportJson" />
+            </Folder>
+            <Folder Name="lazi">
+              <ExportJsonFile Name="ani_pai_bai.ExportJson" />
+            </Folder>
+            <Folder Name="shemen">
+              <ExportJsonFile Name="shemen.ExportJson" />
+            </Folder>
+            <Project Name="ActionLayer.csd" Type="Node" />
+            <Project Name="CardLayer.csd" Type="Layer" />
+            <Image Name="cow.num.png" />
+            <Project Name="cowLayer.csd" Type="Layer" />
+            <Project Name="cuoLayer.csd" Type="Layer" />
+            <Project Name="DcowLayer.csd" Type="Layer" />
+            <Image Name="jie_1.png" />
+            <Image Name="jie_2.png" />
+            <Image Name="jie_num1.png" />
+            <Image Name="jie_num2.png" />
+            <Image Name="n_nums.png" />
+            <Image Name="n_numy.png" />
+            <Fnt Name="num2.fnt" />
+            <Fnt Name="num4.fnt" />
+            <Project Name="PlayerLayer.csd" Type="Layer" />
+          </Folder>
+          <PlistImageFolder Image="Cows.png" PListFile="Cows.plist" Name=".Cows_PList.Dir">
+            <PlistImageFile Name="5TH.png" Key="5TH.png" />
+            <PlistImageFile Name="5TH2.png" Key="5TH2.png" />
+            <PlistImageFile Name="ani_baiban.png" Key="ani_baiban.png" />
+            <PlistImageFile Name="ani_laizi_di.png" Key="ani_laizi_di.png" />
+            <PlistImageFile Name="ani_laizi2.png" Key="ani_laizi2.png" />
+            <PlistImageFile Name="btn_beishu.png" Key="btn_beishu.png" />
+            <PlistImageFile Name="btn_bf.png" Key="btn_bf.png" />
+            <PlistImageFile Name="btn_bt.png" Key="btn_bt.png" />
+            <PlistImageFile Name="btn_cuopai.png" Key="btn_cuopai.png" />
+            <PlistImageFile Name="btn_fb.png" Key="btn_fb.png" />
+            <PlistImageFile Name="btn_fp.png" Key="btn_fp.png" />
+            <PlistImageFile Name="btn_tz.png" Key="btn_tz.png" />
+            <PlistImageFile Name="buqian.png" Key="buqian.png" />
+            <PlistImageFile Name="buqiang.png" Key="buqiang.png" />
+            <PlistImageFile Name="buqiangzhuan.png" Key="buqiangzhuan.png" />
+            <PlistImageFile Name="butuizhu.png" Key="butuizhu.png" />
+            <PlistImageFile Name="image_1.png" Key="image_1.png" />
+            <PlistImageFile Name="ketui.png" Key="ketui.png" />
+            <PlistImageFile Name="laizi.png" Key="laizi.png" />
+            <PlistImageFile Name="number.png" Key="number.png" />
+            <PlistImageFile Name="qiangzhuang.png" Key="qiangzhuang.png" />
+            <PlistImageFile Name="qx0.png" Key="qx0.png" />
+            <PlistImageFile Name="qx1.png" Key="qx1.png" />
+            <PlistImageFile Name="qx2.png" Key="qx2.png" />
+            <PlistImageFile Name="qx3.png" Key="qx3.png" />
+            <PlistImageFile Name="qx4.png" Key="qx4.png" />
+            <PlistImageFile Name="qx5.png" Key="qx5.png" />
+            <PlistImageFile Name="sg_gold_coin.png" Key="sg_gold_coin.png" />
+            <PlistImageFile Name="tips_bg.png" Key="tips_bg.png" />
+            <PlistImageFile Name="tuizhu.png" Key="tuizhu.png" />
+            <PlistImageFile Name="xlaizi.png" Key="xlaizi.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="Dz.png" PListFile="Dz.plist" Name=".Dz_PList.Dir">
+            <PlistImageFile Name="add.png" Key="add.png" />
+            <PlistImageFile Name="btn.png" Key="btn.png" />
+            <PlistImageFile Name="btn_genzhu.png" Key="btn_genzhu.png" />
+            <PlistImageFile Name="btn_guopai.png" Key="btn_guopai.png" />
+            <PlistImageFile Name="btn_jiazhu.png" Key="btn_jiazhu.png" />
+            <PlistImageFile Name="btn_qipai.png" Key="btn_qipai.png" />
+            <PlistImageFile Name="cancel.png" Key="cancel.png" />
+            <PlistImageFile Name="choumacidi.png" Key="choumacidi.png" />
+            <PlistImageFile Name="choumadui.png" Key="choumadui.png" />
+            <PlistImageFile Name="choumanan.png" Key="choumanan.png" />
+            <PlistImageFile Name="img_damanzhu.png" Key="img_damanzhu.png" />
+            <PlistImageFile Name="img_dzpx_b0.png" Key="img_dzpx_b0.png" />
+            <PlistImageFile Name="img_dzpx_b1.png" Key="img_dzpx_b1.png" />
+            <PlistImageFile Name="img_dzpx_b2.png" Key="img_dzpx_b2.png" />
+            <PlistImageFile Name="img_dzpx_b3.png" Key="img_dzpx_b3.png" />
+            <PlistImageFile Name="img_dzpx_b4.png" Key="img_dzpx_b4.png" />
+            <PlistImageFile Name="img_dzpx_b5.png" Key="img_dzpx_b5.png" />
+            <PlistImageFile Name="img_dzpx_b6.png" Key="img_dzpx_b6.png" />
+            <PlistImageFile Name="img_dzpx_b7.png" Key="img_dzpx_b7.png" />
+            <PlistImageFile Name="img_dzpx_b8.png" Key="img_dzpx_b8.png" />
+            <PlistImageFile Name="img_dzpx_b9.png" Key="img_dzpx_b9.png" />
+            <PlistImageFile Name="img_gong1.png" Key="img_gong1.png" />
+            <PlistImageFile Name="img_gong2.png" Key="img_gong2.png" />
+            <PlistImageFile Name="img_gong3.png" Key="img_gong3.png" />
+            <PlistImageFile Name="img_gong4.png" Key="img_gong4.png" />
+            <PlistImageFile Name="img_gong5.png" Key="img_gong5.png" />
+            <PlistImageFile Name="img_xiaomanzhu.png" Key="img_xiaomanzhu.png" />
+            <PlistImageFile Name="img4.png" Key="img4.png" />
+            <PlistImageFile Name="s.png" Key="s.png" />
+            <PlistImageFile Name="sh.png" Key="sh.png" />
+            <PlistImageFile Name="yqp.png" Key="yqp.png" />
+          </PlistImageFolder>
+          <Folder Name="dzLayer">
+            <Project Name="CardLayer.csd" Type="Layer" />
+            <Project Name="dzLayer.csd" Type="Layer" />
+            <Project Name="PlayerLayer.csd" Type="Layer" />
+            <Project Name="xiaojieLayer.csd" Type="Layer" />
+          </Folder>
+          <PlistImageFolder Image="Gcow.png" PListFile="Gcow.plist" Name=".Gcow_PList.Dir">
+            <PlistImageFile Name="gameicon.png" Key="gameicon.png" />
+            <PlistImageFile Name="gcowbtn_sm.png" Key="gcowbtn_sm.png" />
+            <PlistImageFile Name="Gcowbtn_xz.png" Key="Gcowbtn_xz.png" />
+            <PlistImageFile Name="jinbi.png" Key="jinbi.png" />
+            <PlistImageFile Name="kuang.png" Key="kuang.png" />
+            <PlistImageFile Name="wenzi.png" Key="wenzi.png" />
+            <PlistImageFile Name="xzbj.png" Key="xzbj.png" />
+            <PlistImageFile Name="xzf.png" Key="xzf.png" />
+            <PlistImageFile Name="xzs.png" Key="xzs.png" />
+            <PlistImageFile Name="xzsz.png" Key="xzsz.png" />
+            <PlistImageFile Name="xzszz.png" Key="xzszz.png" />
+            <PlistImageFile Name="xzxz.png" Key="xzxz.png" />
+          </PlistImageFolder>
+          <Folder Name="public">
+            <Folder Name="guanzhan">
+              <Folder Name="brshezhi">
+                <Image Name="queding.png" />
+                <Image Name="set1.png" />
+                <Image Name="set2.png" />
+                <Image Name="set3.png" />
+                <Image Name="setting.png" />
+                <Image Name="shezhi.png" />
+                <Image Name="shezhibj.png" />
+                <Image Name="xx.png" />
+                <Image Name="xz.png" />
+              </Folder>
+              <Image Name="bj.png" />
+              <Image Name="btn_cj.png" />
+              <Image Name="btn_cj2.png" />
+              <Image Name="btn_yx.png" />
+              <Image Name="btn_yx2.png" />
+              <Image Name="btn_yy.png" />
+              <Image Name="liebiao.png" />
+              <Image Name="tetels.png" />
+              <Image Name="tetlesez.png" />
+              <Image Name="xuanzh1.png" />
+              <Image Name="xuanzhong2.png" />
+            </Folder>
+            <Folder Name="huigu">
+              <Image Name="hui_s.png" />
+              <Image Name="hui_y.png" />
+              <Image Name="huigubu.png" />
+              <Image Name="huigudi.png" />
+              <Image Name="huigufu.png" />
+              <Image Name="huigujiantou.png" />
+              <Image Name="huigujinbi.png" />
+              <Image Name="huiguq.png" />
+              <Image Name="huiguzheng.png" />
+              <Image Name="huihujinbidi.png" />
+            </Folder>
+            <Folder Name="shezhi">
+              <Image Name="anniudi.png" />
+              <Image Name="anniudi2.png" />
+              <Image Name="anniudi2_1.png" />
+              <Image Name="anniudi2_2.png" />
+              <Image Name="baikuang.png" />
+              <Image Name="bj1.png" />
+              <Image Name="bj2.png" />
+              <Image Name="bj3.png" />
+              <Image Name="bj4.png" />
+              <Image Name="c1.png" />
+              <Image Name="c2.png" />
+              <Image Name="card1.png" />
+              <Image Name="card2.png" />
+              <Image Name="card3.png" />
+              <Image Name="cjszcp.png" />
+              <Image Name="duihao.png" />
+              <Image Name="img_card1.png" />
+              <Image Name="img_card2.png" />
+              <Image Name="img_card3.png" />
+              <Image Name="juxing4.png" />
+              <Image Name="kongxinyuan.png" />
+              <Image Name="shixinyuan.png" />
+              <Image Name="sz .png" />
+              <Image Name="szcp.png" />
+              <Image Name="titleunder.png" />
+              <Image Name="xiaoduihao.png" />
+              <Image Name="yuanjiaojuxing.png" />
+              <Image Name="yy.png" />
+              <Image Name="z8.png" />
+              <Image Name="z9.png" />
+            </Folder>
+            <Image Name="_0123456789.png" />
+            <Image Name="0123456789.png" />
+            <Image Name="guize.png" />
+            <Image Name="jiesuan.png" />
+            <Image Name="jiesuan__jh.png" />
+            <Image Name="jiesuan_jh.png" />
+            <Image Name="num_ren.png" />
+            <Image Name="num1.png" />
+            <Image Name="num2.png" />
+            <Image Name="shuzishu.png" />
+            <Image Name="shuziy.png" />
+            <Image Name="zongjiesuan_di.png" />
+          </Folder>
+          <PlistImageFolder Image="Public.png" PListFile="Public.plist" Name=".Public_PList.Dir">
+            <PlistImageFile Name="b_ks.png" Key="b_ks.png" />
+            <PlistImageFile Name="b_zb.png" Key="b_zb.png" />
+            <PlistImageFile Name="b3.png" Key="b3.png" />
+            <PlistImageFile Name="b4.png" Key="b4.png" />
+            <PlistImageFile Name="bgtou.png" Key="bgtou.png" />
+            <PlistImageFile Name="bgtou_2.png" Key="bgtou_2.png" />
+            <PlistImageFile Name="bgtou1.png" Key="bgtou1.png" />
+            <PlistImageFile Name="biaodi.png" Key="biaodi.png" />
+            <PlistImageFile Name="biaoer.png" Key="biaoer.png" />
+            <PlistImageFile Name="btn_bipai.png" Key="btn_bipai.png" />
+            <PlistImageFile Name="btn_continue.png" Key="btn_continue.png" />
+            <PlistImageFile Name="btn_gedaodi.png" Key="btn_gedaodi.png" />
+            <PlistImageFile Name="btn_genzhu.png" Key="btn_genzhu.png" />
+            <PlistImageFile Name="btn_huigu.png" Key="btn_huigu.png" />
+            <PlistImageFile Name="btn_jiazhu.png" Key="btn_jiazhu.png" />
+            <PlistImageFile Name="btn_nbq.png" Key="btn_nbq.png" />
+            <PlistImageFile Name="btn_nxz.png" Key="btn_nxz.png" />
+            <PlistImageFile Name="btn_nz.png" Key="btn_nz.png" />
+            <PlistImageFile Name="btn_qipai.png" Key="btn_qipai.png" />
+            <PlistImageFile Name="btn_wf.png" Key="btn_wf.png" />
+            <PlistImageFile Name="btnguize.png" Key="btnguize.png" />
+            <PlistImageFile Name="cd.png" Key="cd.png" />
+            <PlistImageFile Name="choumacidi.png" Key="choumacidi.png" />
+            <PlistImageFile Name="choumadui.png" Key="choumadui.png" />
+            <PlistImageFile Name="choumanan.png" Key="choumanan.png" />
+            <PlistImageFile Name="coin_icon.png" Key="coin_icon.png" />
+            <PlistImageFile Name="fanhuidating.png" Key="fanhuidating.png" />
+            <PlistImageFile Name="game_1.png" Key="game_1.png" />
+            <PlistImageFile Name="game_2.png" Key="game_2.png" />
+            <PlistImageFile Name="game_3.png" Key="game_3.png" />
+            <PlistImageFile Name="game_5.png" Key="game_5.png" />
+            <PlistImageFile Name="game_7.png" Key="game_7.png" />
+            <PlistImageFile Name="game_8.png" Key="game_8.png" />
+            <PlistImageFile Name="gou1.png" Key="gou1.png" />
+            <PlistImageFile Name="gth.png" Key="gth.png" />
+            <PlistImageFile Name="guang1.png" Key="guang1.png" />
+            <PlistImageFile Name="guang2.png" Key="guang2.png" />
+            <PlistImageFile Name="guang3.png" Key="guang3.png" />
+            <PlistImageFile Name="gz.png" Key="gz.png" />
+            <PlistImageFile Name="img_banker.png" Key="img_banker.png" />
+            <PlistImageFile Name="img_pg.png" Key="img_pg.png" />
+            <PlistImageFile Name="jiesuan_.png" Key="jiesuan_.png" />
+            <PlistImageFile Name="jiesuan_j.png" Key="jiesuan_j.png" />
+            <PlistImageFile Name="latiao_btn.png" Key="latiao_btn.png" />
+            <PlistImageFile Name="latiao_di.png" Key="latiao_di.png" />
+            <PlistImageFile Name="latiao_ju.png" Key="latiao_ju.png" />
+            <PlistImageFile Name="latiao_sd.png" Key="latiao_sd.png" />
+            <PlistImageFile Name="latiao_td.png" Key="latiao_td.png" />
+            <PlistImageFile Name="latiao_xz.png" Key="latiao_xz.png" />
+            <PlistImageFile Name="me_1.png" Key="me_1.png" />
+            <PlistImageFile Name="me_2.png" Key="me_2.png" />
+            <PlistImageFile Name="mebaopaidi.png" Key="mebaopaidi.png" />
+            <PlistImageFile Name="new_cuo.png" Key="new_cuo.png" />
+            <PlistImageFile Name="new_fan.png" Key="new_fan.png" />
+            <PlistImageFile Name="noNum.png" Key="noNum.png" />
+            <PlistImageFile Name="online.png" Key="online.png" />
+            <PlistImageFile Name="other_1.png" Key="other_1.png" />
+            <PlistImageFile Name="other_2.png" Key="other_2.png" />
+            <PlistImageFile Name="paidi.png" Key="paidi.png" />
+            <PlistImageFile Name="pao_bj.png" Key="pao_bj.png" />
+            <PlistImageFile Name="poker_bg1.png" Key="poker_bg1.png" />
+            <PlistImageFile Name="poker_bg2.png" Key="poker_bg2.png" />
+            <PlistImageFile Name="poker_bg3.png" Key="poker_bg3.png" />
+            <PlistImageFile Name="poker_bg4.png" Key="poker_bg4.png" />
+            <PlistImageFile Name="qiangzuo.png" Key="qiangzuo.png" />
+            <PlistImageFile Name="san.png" Key="san.png" />
+            <PlistImageFile Name="settele.png" Key="settele.png" />
+            <PlistImageFile Name="tetle_js.png" Key="tetle_js.png" />
+            <PlistImageFile Name="tishidi.png" Key="tishidi.png" />
+            <PlistImageFile Name="touxiang.png" Key="touxiang.png" />
+            <PlistImageFile Name="touxiangzhuangtai.png" Key="touxiangzhuangtai.png" />
+            <PlistImageFile Name="tubiao.png" Key="tubiao.png" />
+            <PlistImageFile Name="tubiao2.png" Key="tubiao2.png" />
+            <PlistImageFile Name="tx_head.png" Key="tx_head.png" />
+            <PlistImageFile Name="tx_kuang.png" Key="tx_kuang.png" />
+            <PlistImageFile Name="wanfa_telte.png" Key="wanfa_telte.png" />
+            <PlistImageFile Name="wanfadi.png" Key="wanfadi.png" />
+            <PlistImageFile Name="X.png" Key="X.png" />
+            <PlistImageFile Name="yjjx3.png" Key="yjjx3.png" />
+            <PlistImageFile Name="zby.png" Key="zby.png" />
+            <PlistImageFile Name="zhankai.png" Key="zhankai.png" />
+            <PlistImageFile Name="zhankai_1.png" Key="zhankai_1.png" />
+            <PlistImageFile Name="zhankai_di.png" Key="zhankai_di.png" />
+            <PlistImageFile Name="zhankai_xian.png" Key="zhankai_xian.png" />
+            <PlistImageFile Name="zongjie.png" Key="zongjie.png" />
+            <PlistImageFile Name="zongjiesuankuang.png" Key="zongjiesuankuang.png" />
+          </PlistImageFolder>
+          <Folder Name="publicLayer">
+            <Project Name="cmnode.csd" Type="Node" />
+            <Project Name="GameEndLayer.csd" Type="Layer" />
+            <Project Name="GameHuiGuLayer.csd" Type="Layer" />
+            <Project Name="menode.csd" Type="Node" />
+            <Project Name="SettingLayer.csd" Type="Layer" />
+            <Project Name="shunode.csd" Type="Node" />
+            <Project Name="topLayer.csd" Type="Layer" />
+            <Project Name="wanfaLayer.csd" Type="Layer" />
+            <Project Name="WatchLayer.csd" Type="Layer" />
+            <Project Name="younode.csd" Type="Node" />
+            <Project Name="zuonode.csd" Type="Node" />
+          </Folder>
+          <PlistImageFolder Image="Sg.png" PListFile="Sg.plist" Name=".Sg_PList.Dir">
+            <PlistImageFile Name="btn_b.png" Key="btn_b.png" />
+            <PlistImageFile Name="btn_bei.png" Key="btn_bei.png" />
+            <PlistImageFile Name="btn_cuopai.png" Key="btn_cuopai.png" />
+            <PlistImageFile Name="btn_di.png" Key="btn_di.png" />
+            <PlistImageFile Name="btn_fp.png" Key="btn_fp.png" />
+            <PlistImageFile Name="Btn_x.png" Key="Btn_x.png" />
+            <PlistImageFile Name="chidi.png" Key="chidi.png" />
+            <PlistImageFile Name="h_d.png" Key="h_d.png" />
+            <PlistImageFile Name="huadi.png" Key="huadi.png" />
+            <PlistImageFile Name="huajine.png" Key="huajine.png" />
+            <PlistImageFile Name="huak.png" Key="huak.png" />
+            <PlistImageFile Name="huatiao.png" Key="huatiao.png" />
+            <PlistImageFile Name="huatiaodi.png" Key="huatiaodi.png" />
+            <PlistImageFile Name="js_jia.png" Key="js_jia.png" />
+            <PlistImageFile Name="js_jian.png" Key="js_jian.png" />
+            <PlistImageFile Name="js_jinum.png" Key="js_jinum.png" />
+            <PlistImageFile Name="js_jnum.png" Key="js_jnum.png" />
+            <PlistImageFile Name="no_btn.png" Key="no_btn.png" />
+            <PlistImageFile Name="noqiang.png" Key="noqiang.png" />
+            <PlistImageFile Name="px_di.png" Key="px_di.png" />
+            <PlistImageFile Name="px_jh_1.png" Key="px_jh_1.png" />
+            <PlistImageFile Name="px_jh_2.png" Key="px_jh_2.png" />
+            <PlistImageFile Name="px_jh_3.png" Key="px_jh_3.png" />
+            <PlistImageFile Name="px_jh_4.png" Key="px_jh_4.png" />
+            <PlistImageFile Name="px_jh_5.png" Key="px_jh_5.png" />
+            <PlistImageFile Name="px_jh_6.png" Key="px_jh_6.png" />
+            <PlistImageFile Name="px_sg_0.png" Key="px_sg_0.png" />
+            <PlistImageFile Name="px_sg_1.png" Key="px_sg_1.png" />
+            <PlistImageFile Name="px_sg_2.png" Key="px_sg_2.png" />
+            <PlistImageFile Name="px_sg_3.png" Key="px_sg_3.png" />
+            <PlistImageFile Name="px_sg_4.png" Key="px_sg_4.png" />
+            <PlistImageFile Name="px_sg_47.png" Key="px_sg_47.png" />
+            <PlistImageFile Name="px_sg_48.png" Key="px_sg_48.png" />
+            <PlistImageFile Name="px_sg_49.png" Key="px_sg_49.png" />
+            <PlistImageFile Name="px_sg_5.png" Key="px_sg_5.png" />
+            <PlistImageFile Name="px_sg_50.png" Key="px_sg_50.png" />
+            <PlistImageFile Name="px_sg_6.png" Key="px_sg_6.png" />
+            <PlistImageFile Name="px_sg_7.png" Key="px_sg_7.png" />
+            <PlistImageFile Name="px_sg_8.png" Key="px_sg_8.png" />
+            <PlistImageFile Name="px_sg_9.png" Key="px_sg_9.png" />
+            <PlistImageFile Name="px_sy1.png" Key="px_sy1.png" />
+            <PlistImageFile Name="px_sy2.png" Key="px_sy2.png" />
+            <PlistImageFile Name="tiao3.png" Key="tiao3.png" />
+            <PlistImageFile Name="tiaotiao.png" Key="tiaotiao.png" />
+            <PlistImageFile Name="tiaoxi.png" Key="tiaoxi.png" />
+          </PlistImageFolder>
+          <Folder Name="sgLayer">
+            <Folder Name="ani">
+              <ExportJsonFile Name="ani_dtyl_sg.ExportJson" />
+              <ExportJsonFile Name="ani_sg.ExportJson" />
+            </Folder>
+            <Project Name="ActionLayer.csd" Type="Node" />
+            <Image Name="bei.png" />
+            <Image Name="bei_num.png" />
+            <Project Name="CardLayer.csd" Type="Layer" />
+            <Project Name="cuoLayer.csd" Type="Layer" />
+            <Image Name="js_jinum.png" />
+            <Image Name="js_jnum.png" />
+            <Project Name="PlayerLayer.csd" Type="Layer" />
+            <Project Name="sgbjhLayer.csd" Type="Layer" />
+            <Project Name="sgLayer.csd" Type="Layer" />
+          </Folder>
+        </Folder>
+        <PlistImageFolder Image="Hall.png" PListFile="Hall.plist" Name=".Hall_PList.Dir">
+          <PlistImageFile Name="baoshi_hall.png" Key="baoshi_hall.png" />
+          <PlistImageFile Name="creter_hall.png" Key="creter_hall.png" />
+          <PlistImageFile Name="fenxiang_hall.png" Key="fenxiang_hall.png" />
+          <PlistImageFile Name="fenxiangicon_hall.png" Key="fenxiangicon_hall.png" />
+          <PlistImageFile Name="gonggao_hall.png" Key="gonggao_hall.png" />
+          <PlistImageFile Name="hall_dibu_hall.png" Key="hall_dibu_hall.png" />
+          <PlistImageFile Name="hall_kuang_hall.png" Key="hall_kuang_hall.png" />
+          <PlistImageFile Name="icon_hall.png" Key="icon_hall.png" />
+          <PlistImageFile Name="join_hall.png" Key="join_hall.png" />
+          <PlistImageFile Name="kefu_hall.png" Key="kefu_hall.png" />
+          <PlistImageFile Name="kefuicon_hall.png" Key="kefuicon_hall.png" />
+          <PlistImageFile Name="logo.png" Key="logo.png" />
+          <PlistImageFile Name="redTips.png" Key="redTips.png" />
+          <PlistImageFile Name="set_heall.png" Key="set_heall.png" />
+          <PlistImageFile Name="setcon_hall.png" Key="setcon_hall.png" />
+          <PlistImageFile Name="wanfa_hall.png" Key="wanfa_hall.png" />
+          <PlistImageFile Name="wanfaicon_hall.png" Key="wanfaicon_hall.png" />
+          <PlistImageFile Name="wode_hall.png" Key="wode_hall.png" />
+          <PlistImageFile Name="xinxi_hall.png" Key="xinxi_hall.png" />
+          <PlistImageFile Name="xinxiicon_hall.png" Key="xinxiicon_hall.png" />
+          <PlistImageFile Name="zengjia_hall.png" Key="zengjia_hall.png" />
+          <PlistImageFile Name="zuoshang_hall.png" Key="zuoshang_hall.png" />
+        </PlistImageFolder>
+        <Folder Name="Hall_PList.Dir" />
+        <PlistImageFolder Image="Hall_public.png" PListFile="Hall_public.plist" Name=".Hall_public_PList.Dir">
+          <PlistImageFile Name="1.png" Key="1.png" />
+          <PlistImageFile Name="2.png" Key="2.png" />
+          <PlistImageFile Name="3.png" Key="3.png" />
+          <PlistImageFile Name="callback.png" Key="callback.png" />
+          <PlistImageFile Name="ding.png" Key="ding.png" />
+          <PlistImageFile Name="ding1.png" Key="ding1.png" />
+          <PlistImageFile Name="head.png" Key="head.png" />
+          <PlistImageFile Name="head_k.png" Key="head_k.png" />
+          <PlistImageFile Name="shurukuang.png" Key="shurukuang.png" />
+          <PlistImageFile Name="tankuang_di1.png" Key="tankuang_di1.png" />
+          <PlistImageFile Name="tankuang_di2.png" Key="tankuang_di2.png" />
+          <PlistImageFile Name="zuoceann.png" Key="zuoceann.png" />
+          <PlistImageFile Name="zuoceann_ok.png" Key="zuoceann_ok.png" />
+        </PlistImageFolder>
+        <PlistImageFolder Image="HallClub.png" PListFile="HallClub.plist" Name=".HallClub_PList.Dir">
+          <PlistImageFile Name="0_HClub.png" Key="0_HClub.png" />
+          <PlistImageFile Name="1_HClub.png" Key="1_HClub.png" />
+          <PlistImageFile Name="2_HClub.png" Key="2_HClub.png" />
+          <PlistImageFile Name="3_HClub.png" Key="3_HClub.png" />
+          <PlistImageFile Name="4_HClub.png" Key="4_HClub.png" />
+          <PlistImageFile Name="5_HClub.png" Key="5_HClub.png" />
+          <PlistImageFile Name="6_HClub.png" Key="6_HClub.png" />
+          <PlistImageFile Name="7_HClub.png" Key="7_HClub.png" />
+          <PlistImageFile Name="8_HClub.png" Key="8_HClub.png" />
+          <PlistImageFile Name="9_HClub.png" Key="9_HClub.png" />
+          <PlistImageFile Name="btn_cj_HClub.png" Key="btn_cj_HClub.png" />
+          <PlistImageFile Name="btn_HClub.join_HClub.png" Key="btn_HClub.join_HClub.png" />
+          <PlistImageFile Name="btn_sure_HClub.png" Key="btn_sure_HClub.png" />
+          <PlistImageFile Name="chongzhi_HClub.png" Key="chongzhi_HClub.png" />
+          <PlistImageFile Name="cjlm_HClub.png" Key="cjlm_HClub.png" />
+          <PlistImageFile Name="del_HClub.png" Key="del_HClub.png" />
+          <PlistImageFile Name="jrlm_HClub.png" Key="jrlm_HClub.png" />
+          <PlistImageFile Name="jrlmkuang_HClub.png" Key="jrlmkuang_HClub.png" />
+          <PlistImageFile Name="julianmen_HClub.png" Key="julianmen_HClub.png" />
+          <PlistImageFile Name="lianmensaishi_HClub.png" Key="lianmensaishi_HClub.png" />
+          <PlistImageFile Name="shurukuang_HClub.png" Key="shurukuang_HClub.png" />
+          <PlistImageFile Name="touxiangkuang_HClub.png" Key="touxiangkuang_HClub.png" />
+          <PlistImageFile Name="wodelianmeng_HClub.png" Key="wodelianmeng_HClub.png" />
+        </PlistImageFolder>
+        <Folder Name="HallPage">
+          <Folder Name="guize">
+            <Image Name="cow.png" />
+            <Image Name="longhudou.png" />
+            <Image Name="pdk.png" />
+            <Image Name="rule_brsg.png" />
+            <Image Name="rule_niuniu.png" />
+            <Image Name="rule_sangong.png" />
+            <Image Name="shenshou.png" />
+            <Image Name="ssss.png" />
+          </Folder>
+          <Folder Name="loadingCircle">
+            <Image Name="circle.png" />
+            <Image Name="loadingBg.png" />
+            <Image Name="loadingCircle_1.png" />
+          </Folder>
+          <Folder Name="noice">
+            <Image Name="neir.png" />
+            <Image Name="waigua.png" />
+            <Image Name="yuezhan.png" />
+          </Folder>
+          <Folder Name="yaoqing">
+            <Image Name="bg.png" />
+            <Image Name="jqqd-bj.png" />
+            <Image Name="jqqd-guanbi.png" />
+            <Image Name="mabeijing.png" />
+            <Image Name="yaoqingma.png" />
+          </Folder>
+        </Folder>
+        <PlistImageFolder Image="HallPage.png" PListFile="HallPage.plist" Name=".HallPage_PList.Dir">
+          <PlistImageFile Name="btn_quxiao.png" Key="btn_quxiao.png" />
+          <PlistImageFile Name="btn_sure.png" Key="btn_sure.png" />
+          <PlistImageFile Name="fenxiang_Page.png" Key="fenxiang_Page.png" />
+          <PlistImageFile Name="fxpengyouquan_Page.png" Key="fxpengyouquan_Page.png" />
+          <PlistImageFile Name="fxpuq_Page.png" Key="fxpuq_Page.png" />
+          <PlistImageFile Name="fxweixin_Page.png" Key="fxweixin_Page.png" />
+          <PlistImageFile Name="fxwx_Page.png" Key="fxwx_Page.png" />
+          <PlistImageFile Name="gonggao_Page.png" Key="gonggao_Page.png" />
+          <PlistImageFile Name="huodong.png" Key="huodong.png" />
+          <PlistImageFile Name="kuang1.png" Key="kuang1.png" />
+          <PlistImageFile Name="qiehuan_Page.png" Key="qiehuan_Page.png" />
+          <PlistImageFile Name="shezhi_Page.png" Key="shezhi_Page.png" />
+          <PlistImageFile Name="szannie_Page.png" Key="szannie_Page.png" />
+          <PlistImageFile Name="szshurukuang_Page.png" Key="szshurukuang_Page.png" />
+          <PlistImageFile Name="szshurukuang1_Page.png" Key="szshurukuang1_Page.png" />
+          <PlistImageFile Name="szxuanzhe_bj_Page.png" Key="szxuanzhe_bj_Page.png" />
+          <PlistImageFile Name="szxuanzhe_Page.png" Key="szxuanzhe_Page.png" />
+          <PlistImageFile Name="szyinyue_ok_Page.png" Key="szyinyue_ok_Page.png" />
+          <PlistImageFile Name="szyinyue_Page.png" Key="szyinyue_Page.png" />
+          <PlistImageFile Name="wanfa_Page.png" Key="wanfa_Page.png" />
+          <PlistImageFile Name="wenxin.png" Key="wenxin.png" />
+          <PlistImageFile Name="wfdikuang_Page.png" Key="wfdikuang_Page.png" />
+          <PlistImageFile Name="xgima_Page.png" Key="xgima_Page.png" />
+          <PlistImageFile Name="xinxi_Page.png" Key="xinxi_Page.png" />
+          <PlistImageFile Name="yaoqing_Page.png" Key="yaoqing_Page.png" />
+        </PlistImageFolder>
+        <Folder Name="Layer">
+          <Project Name="BindLayer.csd" Type="Layer" />
+          <Project Name="checkLayer.csd" Type="Layer" />
+          <Project Name="ClubCreatLayer.csd" Type="Layer" />
+          <Project Name="ClublistLayer.csd" Type="Layer" />
+          <Project Name="HallLayer.csd" Type="Layer" />
+          <Project Name="HallShareLayer.csd" Type="Layer" />
+          <Project Name="HuoDongLayer.csd" Type="Layer" />
+          <Project Name="kefuLayer.csd" Type="Layer" />
+          <Project Name="loadingCircleLayer.csd" Type="Layer" />
+          <Project Name="loginLayer.csd" Type="Layer" />
+          <Project Name="messageLayer.csd" Type="Layer" />
+          <Project Name="NoGameLayer.csd" Type="Layer" />
+          <Project Name="noiceLayer.csd" Type="Layer" />
+          <Project Name="phoneloginLayer.csd" Type="Layer" />
+          <Project Name="PhoneResLayer.csd" Type="Layer" />
+          <Project Name="PhoneXiuGaiLayer.csd" Type="Layer" />
+          <Project Name="SettingLayer.csd" Type="Layer" />
+          <Project Name="shimingLayer.csd" Type="Layer" />
+          <Project Name="testLayer.csd" Type="Layer" />
+          <Project Name="TiShiLayer.csd" Type="Layer" />
+          <Project Name="WaitNode.csd" Type="Node" />
+          <Project Name="wanfaPopLayer.csd" Type="Layer" />
+          <Project Name="yaoqingLayer.csd" Type="Layer" />
+        </Folder>
+        <PlistImageFolder Image="Login.png" PListFile="Login.plist" Name=".Login_PList.Dir">
+          <PlistImageFile Name="bangding.png" Key="bangding.png" />
+          <PlistImageFile Name="bing_fs.png" Key="bing_fs.png" />
+          <PlistImageFile Name="btn_bao.png" Key="btn_bao.png" />
+          <PlistImageFile Name="btn_denglu.png" Key="btn_denglu.png" />
+          <PlistImageFile Name="btn_shouji.png" Key="btn_shouji.png" />
+          <PlistImageFile Name="btn_sure.png" Key="btn_sure.png" />
+          <PlistImageFile Name="btn_weixin.png" Key="btn_weixin.png" />
+          <PlistImageFile Name="dikuang.png" Key="dikuang.png" />
+          <PlistImageFile Name="logo.png" Key="logo.png" />
+          <PlistImageFile Name="phonedelu.png" Key="phonedelu.png" />
+          <PlistImageFile Name="send.png" Key="send.png" />
+          <PlistImageFile Name="send_1.png" Key="send_1.png" />
+          <PlistImageFile Name="shoujiyanzheng.png" Key="shoujiyanzheng.png" />
+          <PlistImageFile Name="shoujizhuce.png" Key="shoujizhuce.png" />
+          <PlistImageFile Name="shurukuang.png" Key="shurukuang.png" />
+          <PlistImageFile Name="tongjishuzi.png" Key="tongjishuzi.png" />
+          <PlistImageFile Name="xiugai.png" Key="xiugai.png" />
+          <PlistImageFile Name="xuanzhe.png" Key="xuanzhe.png" />
+          <PlistImageFile Name="xuanzhe_ok.png" Key="xuanzhe_ok.png" />
+        </PlistImageFolder>
+        <Folder Name="otherUI">
+          <Image Name="caidanbj.png" />
+          <Image Name="cz.png" />
+          <Image Name="delroom.png" />
+          <Image Name="fanhui_bj.png" />
+          <Image Name="fr.png" />
+          <Image Name="gg1.png" />
+          <Image Name="jb_ClubHall.png" />
+          <Image Name="lianmengming_bj.png" />
+          <Image Name="oprom.png" />
+          <Image Name="qm.png" />
+          <Image Name="tj.png" />
+          <Image Name="tm.png" />
+          <Image Name="tx.png" />
+          <Image Name="xuanzhe_ok.png" />
+          <Image Name="zhs.png" />
+          <Image Name="zk.png" />
+          <Image Name="zs.png" />
+          <Image Name="zsm.png" />
+        </Folder>
+        <Folder Name="Public">
+          <Image Name="bj.png" />
+          <Image Name="bj2.png" />
+          <Image Name="bj3.png" />
+          <Image Name="bj5.png" />
+          <Image Name="lianmenbj.jpg" />
+          <Image Name="num.png" />
+          <Image Name="tankuang1.png" />
+          <Image Name="tankuang2.png" />
+          <Image Name="tankuang3.png" />
+          <Image Name="tongjishuzi.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

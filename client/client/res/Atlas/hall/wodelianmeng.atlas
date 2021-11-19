@@ -1,0 +1,27 @@
+
+wodelianmeng.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wd_di
+  rotate: false
+  xy: 0, 140
+  size: 125, 294
+  orig: 125, 294
+  offset: 0, 0
+  index: -1
+wd_wenzi
+  rotate: false
+  xy: 127, 197
+  size: 51, 237
+  orig: 51, 237
+  offset: 0, 0
+  index: -1
+wd_yingzi
+  rotate: true
+  xy: 0, 0
+  size: 138, 63
+  orig: 138, 63
+  offset: 0, 0
+  index: -1
